@@ -1,0 +1,9 @@
+# Template files
+.template-README.md
+
+# Notes & logs
+.setup-conversation.md
+
+# OS
+.DS_Store
+Thumbs.db
