@@ -1,8 +1,4 @@
-![Fuse] (assets/images/fuse.png)
-
-Project Name
-
-> One-line description of the project.
+## `<h1 align="center">`
 
 ## Overview
 
