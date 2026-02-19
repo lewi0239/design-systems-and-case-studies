@@ -18,8 +18,11 @@ Cards, and Navigation - all designed with Figma!
 ## Previews:
 
 ![Buttons & Cards](../../assets/images/design-system-previews/FuseEdge/previews/Buttons.svg)
+
 ![Mid-Fidelity Login Page](../../assets/images/design-system-previews/FuseEdge/previews/Login-Mid-Fidelity.svg)
+
 ![Typography](../../assets/images/design-system-previews/FuseEdge/previews/Types.svg)
+
 ![Colour System](../../assets/images/design-system-previews/FuseEdge/previews/Colour-System.svg)
 
 ## Process:
