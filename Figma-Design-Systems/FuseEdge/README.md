@@ -11,7 +11,7 @@ Cards, and Navigation - all designed with Figma!
 
 ## Previews:
 
-[colours](../../assets/images/design-system-previews/FuseEdge/previews/Colour-System.svg)
+![Colour System](../../assets/images/design-system-previews/FuseEdge/previews/Colour-System.svg)
 
 ## Process:
 
