@@ -17,6 +17,7 @@ Cards, and Navigation - all designed with Figma!
 
 ## Previews:
 
+![Buttons & Cards](../../assets/images/design-system-previews/FuseEdge/previews/Buttons.svg)
 ![Mid-Fidelity Login Page](../../assets/images/design-system-previews/FuseEdge/previews/Login-Mid-Fidelity.svg)
 ![Typography](../../assets/images/design-system-previews/FuseEdge/previews/Types.svg)
 ![Colour System](../../assets/images/design-system-previews/FuseEdge/previews/Colour-System.svg)
@@ -40,7 +41,7 @@ Cards, and Navigation - all designed with Figma!
 ## Tools & Techniques
 
 - Figma
-- <!-- e.g. Auto Layout, Variables, Variants, Prototyping -->
+- Auto Layout, Variables, Variants, Prototyping, Wire Frames
 
 ## Status
 
